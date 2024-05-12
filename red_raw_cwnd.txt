@@ -1,74 +1,74 @@
 Connecting to host 10.0.0.9, port 5201
-[ 5] local 10.0.0.10 port 56580 connected to 10.0.0.9 port 5201
-[ 7] local 10.0.0.10 port 56582 connected to 10.0.0.9 port 5201
-[ 9] local 10.0.0.10 port 56592 connected to 10.0.0.9 port 5201
-[ 11] local 10.0.0.10 port 56602 connected to 10.0.0.9 port 5201
-[ 13] local 10.0.0.10 port 56612 connected to 10.0.0.9 port 5201
-[ 15] local 10.0.0.10 port 56620 connected to 10.0.0.9 port 5201
-[ 17] local 10.0.0.10 port 56630 connected to 10.0.0.9 port 5201
-[ 19] local 10.0.0.10 port 56640 connected to 10.0.0.9 port 5201
-[ 21] local 10.0.0.10 port 56650 connected to 10.0.0.9 port 5201
-[ 23] local 10.0.0.10 port 56666 connected to 10.0.0.9 port 5201
+[ 5] local 10.0.0.10 port 58388 connected to 10.0.0.9 port 5201
+[ 7] local 10.0.0.10 port 58394 connected to 10.0.0.9 port 5201
+[ 9] local 10.0.0.10 port 58398 connected to 10.0.0.9 port 5201
+[ 11] local 10.0.0.10 port 58406 connected to 10.0.0.9 port 5201
+[ 13] local 10.0.0.10 port 58426 connected to 10.0.0.9 port 5201
+[ 15] local 10.0.0.10 port 58430 connected to 10.0.0.9 port 5201
+[ 17] local 10.0.0.10 port 58438 connected to 10.0.0.9 port 5201
+[ 19] local 10.0.0.10 port 58446 connected to 10.0.0.9 port 5201
+[ 21] local 10.0.0.10 port 58458 connected to 10.0.0.9 port 5201
+[ 23] local 10.0.0.10 port 58466 connected to 10.0.0.9 port 5201
 [ ID] Interval Transfer Bitrate Retr Cwnd
-[ 5] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 7] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 9] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 11] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 13] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 15] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 17] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 19] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 21] 0.00-0.22 sec 99.0 KBytes 3.69 Mbits/sec 0 14.1 KBytes 
-[ 23] 0.00-0.22 sec 93.3 KBytes 3.48 Mbits/sec 0 14.1 KBytes 
-[SUM] 0.00-0.22 sec 984 KBytes 36.7 Mbits/sec 0 
+[ 5] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 7] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 9] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 11] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 13] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 15] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 17] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 19] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 21] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[ 23] 0.00-0.20 sec 99.0 KBytes 3.99 Mbits/sec 0 14.1 KBytes 
+[SUM] 0.00-0.20 sec 990 KBytes 39.9 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 7] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 9] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 11] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 13] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 15] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 17] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 19] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 21] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 23] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 0.22-0.30 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 7] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 9] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 11] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 13] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 15] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 17] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 19] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 21] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[SUM] 0.20-0.31 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 7] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 9] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 11] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 13] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 15] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 17] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 19] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 21] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[ 23] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 0.30-0.41 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 7] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 9] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 11] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 13] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 15] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 17] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 19] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 21] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[SUM] 0.31-0.41 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 7] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 9] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 11] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 13] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 15] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 17] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 19] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 21] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[ 23] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 0.41-0.51 sec 0.00 Bytes 0.00 bits/sec 9 
+[ 5] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 7] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 9] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 11] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 13] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 15] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 17] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 19] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 21] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[ 23] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
+[SUM] 0.41-0.50 sec 0.00 Bytes 0.00 bits/sec 10 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 7] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 9] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 11] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 13] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 15] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 17] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 19] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 21] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 23] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 0.51-0.60 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 7] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 9] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 11] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 13] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 15] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 17] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 19] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 21] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 23] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[SUM] 0.50-0.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 7] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
@@ -79,7 +79,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 19] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 21] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 23] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [SUM] 0.60-0.71 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
@@ -91,7 +91,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 19] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 21] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 23] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [SUM] 0.71-0.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
@@ -103,8 +103,8 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 19] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 21] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[ 23] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 1 1.41 KBytes 
-[SUM] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 1 
+[ 23] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[SUM] 0.80-0.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 0.90-1.01 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 7] 0.90-1.01 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
@@ -118,7 +118,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 23] 0.90-1.01 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [SUM] 0.90-1.01 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 5] 1.01-1.10 sec 63.6 KBytes 5.59 Mbits/sec 0 25.5 KBytes 
 [ 7] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 9] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 11] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
@@ -128,91 +128,91 @@ Connecting to host 10.0.0.9, port 5201
 [ 19] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 21] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 23] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[SUM] 1.01-1.10 sec 0.00 Bytes 0.00 bits/sec 0 
+[SUM] 1.01-1.10 sec 63.6 KBytes 5.59 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 7] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 9] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 11] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 13] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 15] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 28.3 KBytes 
-[ 17] 1.10-1.20 sec 63.6 KBytes 5.30 Mbits/sec 0 26.9 KBytes 
+[ 5] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.10-1.20 sec 63.6 KBytes 5.08 Mbits/sec 0 28.3 KBytes 
+[ 9] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 24.0 KBytes 
+[ 11] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 13] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 15] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 17] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 19] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 21] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
 [ 23] 1.10-1.20 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
-[SUM] 1.10-1.20 sec 445 KBytes 37.1 Mbits/sec 0 
+[SUM] 1.10-1.20 sec 63.6 KBytes 5.08 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.20-1.30 sec 63.6 KBytes 5.20 Mbits/sec 0 29.7 KBytes 
-[ 21] 1.20-1.30 sec 63.6 KBytes 5.20 Mbits/sec 0 29.7 KBytes 
-[ 23] 1.20-1.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.20-1.30 sec 127 KBytes 10.4 Mbits/sec 0 
+[ 5] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 9] 1.20-1.31 sec 63.6 KBytes 5.01 Mbits/sec 0 28.3 KBytes 
+[ 11] 1.20-1.31 sec 63.6 KBytes 5.01 Mbits/sec 0 28.3 KBytes 
+[ 13] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 21.2 KBytes 
+[ 15] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 17] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 19] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 21] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 23] 1.20-1.31 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[SUM] 1.20-1.31 sec 127 KBytes 10.0 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.30-1.40 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 9] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 11] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 13] 1.31-1.41 sec 63.6 KBytes 5.11 Mbits/sec 0 28.3 KBytes 
+[ 15] 1.31-1.41 sec 63.6 KBytes 5.11 Mbits/sec 0 28.3 KBytes 
+[ 17] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 15.6 KBytes 
+[ 19] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 21] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 23] 1.31-1.41 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[SUM] 1.31-1.41 sec 127 KBytes 10.2 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.40-1.50 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 9] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 11] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 13] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 15] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 17] 1.41-1.50 sec 63.6 KBytes 5.59 Mbits/sec 0 28.3 KBytes 
+[ 19] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 24.0 KBytes 
+[ 21] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[ 23] 1.41-1.50 sec 0.00 Bytes 0.00 bits/sec 0 1.41 KBytes 
+[SUM] 1.41-1.50 sec 63.6 KBytes 5.59 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 9] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 11] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 13] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 15] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 17] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 19] 1.50-1.60 sec 63.6 KBytes 5.10 Mbits/sec 0 28.3 KBytes 
+[ 21] 1.50-1.60 sec 63.6 KBytes 5.10 Mbits/sec 0 28.3 KBytes 
+[ 23] 1.50-1.60 sec 0.00 Bytes 0.00 bits/sec 0 22.6 KBytes 
+[SUM] 1.50-1.60 sec 127 KBytes 10.2 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.60-1.70 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 7] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 9] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 11] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 28.3 KBytes 
+[ 13] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 15] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 1.60-1.71 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 1.60-1.71 sec 63.6 KBytes 5.06 Mbits/sec 0 29.7 KBytes 
+[SUM] 1.60-1.71 sec 63.6 KBytes 5.06 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.70-1.80 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 9] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 11] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 13] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 15] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 1.71-1.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -223,32 +223,32 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 1.80-1.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 1.90-2.00 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 9] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 11] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 13] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 15] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 1.90-2.01 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 2.00-2.10 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 9] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 11] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 13] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 15] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 2.01-2.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -259,7 +259,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.10-2.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -271,7 +271,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.20-2.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -283,7 +283,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.30-2.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -295,7 +295,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.40-2.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -307,7 +307,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.50-2.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -319,7 +319,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.60-2.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -331,7 +331,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.70-2.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -343,7 +343,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.80-2.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -355,7 +355,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 2.90-3.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -367,7 +367,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.00-3.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -379,20 +379,20 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.10-3.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 7] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 9] 3.20-3.30 sec 63.6 KBytes 5.18 Mbits/sec 0 29.7 KBytes 
-[ 11] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 13] 3.20-3.30 sec 63.6 KBytes 5.18 Mbits/sec 0 29.7 KBytes 
-[ 15] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 17] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 19] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 21] 3.20-3.30 sec 93.3 KBytes 7.60 Mbits/sec 0 29.7 KBytes 
-[ 23] 3.20-3.30 sec 55.1 KBytes 4.49 Mbits/sec 0 14.1 KBytes 
-[SUM] 3.20-3.30 sec 836 KBytes 68.1 Mbits/sec 0 
+[ 5] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 9] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 11] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 13] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 15] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 3.20-3.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -403,7 +403,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.30-3.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -415,7 +415,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.40-3.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -427,7 +427,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.50-3.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -439,7 +439,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.60-3.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -451,20 +451,20 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.70-3.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 3.80-3.90 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 5] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 7] 3.80-3.90 sec 80.6 KBytes 6.61 Mbits/sec 0 29.7 KBytes 
+[ 9] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 11] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 13] 3.80-3.90 sec 80.6 KBytes 6.61 Mbits/sec 0 29.7 KBytes 
+[ 15] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 17] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 19] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 21] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[ 23] 3.80-3.90 sec 93.3 KBytes 7.65 Mbits/sec 0 29.7 KBytes 
+[SUM] 3.80-3.90 sec 908 KBytes 74.4 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -475,7 +475,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 3.90-4.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -487,7 +487,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.00-4.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -499,7 +499,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.10-4.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -511,7 +511,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.20-4.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -523,7 +523,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.30-4.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -535,7 +535,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.40-4.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -547,7 +547,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.50-4.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -559,7 +559,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.60-4.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -571,7 +571,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.70-4.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -583,7 +583,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.80-4.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -595,7 +595,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 4.90-5.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -607,7 +607,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.00-5.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -619,7 +619,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.10-5.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -631,7 +631,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.20-5.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -643,7 +643,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.30-5.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -655,7 +655,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.40-5.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -667,7 +667,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.50-5.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -679,8 +679,8 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.60-5.70 sec 38.2 KBytes 3.13 Mbits/sec 0 14.1 KBytes 
-[SUM] 5.60-5.70 sec 38.2 KBytes 3.13 Mbits/sec 0 
+[ 23] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 5.60-5.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -691,7 +691,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.70-5.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -703,20 +703,20 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 5.80-5.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 5.90-6.00 sec 84.8 KBytes 6.95 Mbits/sec 0 29.7 KBytes 
+[ 9] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 11] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 5.90-6.00 sec 84.8 KBytes 6.95 Mbits/sec 0 29.7 KBytes 
+[ 13] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 15] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 17] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 5.90-6.00 sec 170 KBytes 13.9 Mbits/sec 0 
+[ 23] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 5.90-6.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -727,7 +727,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.00-6.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -739,7 +739,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.10-6.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -751,7 +751,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.20-6.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -763,7 +763,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.30-6.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -775,7 +775,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.40-6.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -787,7 +787,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.50-6.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -799,7 +799,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.60-6.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -811,7 +811,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.70-6.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -823,7 +823,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.80-6.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -835,7 +835,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 6.90-7.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -847,7 +847,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.00-7.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -859,7 +859,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.10-7.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -871,7 +871,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.20-7.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -883,32 +883,32 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.30-7.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
-[ 7] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
+[ 5] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 9] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
+[ 11] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 13] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
-[ 17] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
-[ 19] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
-[ 21] 7.40-7.50 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
-[ 23] 7.40-7.50 sec 38.2 KBytes 3.13 Mbits/sec 0 14.1 KBytes 
-[SUM] 7.40-7.50 sec 573 KBytes 46.9 Mbits/sec 0 
+[ 15] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 17] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 19] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 21] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 23] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 7.40-7.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 7] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 7] 7.50-7.60 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
 [ 9] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 11] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 13] 7.50-7.60 sec 76.4 KBytes 6.25 Mbits/sec 0 29.7 KBytes 
 [ 15] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 17] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 23] 7.50-7.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 7.50-7.60 sec 153 KBytes 12.5 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -919,7 +919,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.60-7.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -931,7 +931,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.70-7.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -943,7 +943,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.80-7.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -955,20 +955,20 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 7.90-8.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-[ 5] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 5] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
 [ 7] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 11] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[ 9] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[ 11] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
 [ 13] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 15] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 17] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 19] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 21] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 15] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[ 17] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[ 19] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[ 21] 8.00-8.10 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[ 23] 8.00-8.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 8.00-8.10 sec 535 KBytes 43.8 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -979,8 +979,8 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 8.10-8.20 sec 0.00 Bytes 0.00 bits/sec 0 
+[ 23] 8.10-8.20 sec 76.4 KBytes 6.26 Mbits/sec 0 29.7 KBytes 
+[SUM] 8.10-8.20 sec 76.4 KBytes 6.26 Mbits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -991,7 +991,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.20-8.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1003,7 +1003,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.30-8.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1015,7 +1015,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.40-8.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1027,7 +1027,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.50-8.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1039,7 +1039,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.60-8.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1051,7 +1051,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.70-8.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1063,7 +1063,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.80-8.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1075,7 +1075,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 8.90-9.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1087,7 +1087,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.00-9.10 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1099,8 +1099,8 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.10-9.20 sec 38.2 KBytes 3.13 Mbits/sec 0 14.1 KBytes 
-[SUM] 9.10-9.20 sec 38.2 KBytes 3.13 Mbits/sec 0 
+[ 23] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 9.10-9.20 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1111,7 +1111,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.20-9.30 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1123,7 +1123,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.30-9.40 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1135,7 +1135,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.40-9.50 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1147,7 +1147,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.50-9.60 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1159,7 +1159,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.60-9.70 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1171,7 +1171,7 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.70-9.80 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
@@ -1183,43 +1183,43 @@ Connecting to host 10.0.0.9, port 5201
 [ 17] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
+[ 23] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [SUM] 9.80-9.90 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ 5] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 7] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 9] 9.90-10.00 sec 63.6 KBytes 5.22 Mbits/sec 0 29.7 KBytes 
+[ 9] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 11] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 13] 9.90-10.00 sec 63.6 KBytes 5.22 Mbits/sec 0 29.7 KBytes 
+[ 13] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 15] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 17] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 19] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
 [ 21] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
-[ 23] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 14.1 KBytes 
-[SUM] 9.90-10.00 sec 127 KBytes 10.4 Mbits/sec 0 
+[ 23] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 29.7 KBytes 
+[SUM] 9.90-10.00 sec 0.00 Bytes 0.00 bits/sec 0 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 [ ID] Interval Transfer Bitrate Retr
 [ 5] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 5] 0.00-10.39 sec 208 KBytes 164 Kbits/sec receiver
-[ 7] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 7] 0.00-10.39 sec 208 KBytes 164 Kbits/sec receiver
-[ 9] 0.00-10.00 sec 375 KBytes 307 Kbits/sec 1 sender
-[ 9] 0.00-10.39 sec 209 KBytes 165 Kbits/sec receiver
+[ 5] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
+[ 7] 0.00-10.00 sec 320 KBytes 262 Kbits/sec 1 sender
+[ 7] 0.00-10.78 sec 192 KBytes 146 Kbits/sec receiver
+[ 9] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
+[ 9] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
 [ 11] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 11] 0.00-10.39 sec 208 KBytes 164 Kbits/sec receiver
-[ 13] 0.00-10.00 sec 375 KBytes 307 Kbits/sec 1 sender
-[ 13] 0.00-10.39 sec 209 KBytes 165 Kbits/sec receiver
+[ 11] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
+[ 13] 0.00-10.00 sec 320 KBytes 262 Kbits/sec 1 sender
+[ 13] 0.00-10.78 sec 192 KBytes 146 Kbits/sec receiver
 [ 15] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 15] 0.00-10.39 sec 208 KBytes 164 Kbits/sec receiver
+[ 15] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
 [ 17] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 17] 0.00-10.39 sec 202 KBytes 159 Kbits/sec receiver
+[ 17] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
 [ 19] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 19] 0.00-10.39 sec 202 KBytes 159 Kbits/sec receiver
+[ 19] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
 [ 21] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
-[ 21] 0.00-10.39 sec 202 KBytes 159 Kbits/sec receiver
-[ 23] 0.00-10.00 sec 263 KBytes 215 Kbits/sec 1 sender
-[ 23] 0.00-10.39 sec 198 KBytes 156 Kbits/sec receiver
-[SUM] 0.00-10.00 sec 3.26 MBytes 2.73 Mbits/sec 10 sender
-[SUM] 0.00-10.39 sec 2.01 MBytes 1.62 Mbits/sec receiver
+[ 21] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
+[ 23] 0.00-10.00 sec 332 KBytes 272 Kbits/sec 1 sender
+[ 23] 0.00-10.78 sec 191 KBytes 145 Kbits/sec receiver
+[SUM] 0.00-10.00 sec 3.22 MBytes 2.70 Mbits/sec 10 sender
+[SUM] 0.00-10.78 sec 1.87 MBytes 1.45 Mbits/sec receiver
 
 iperf Done.
