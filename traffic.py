@@ -5,16 +5,6 @@ from mininet.cli import CLI
 import time, os, sys
 
 def create_network():
-    alg_name = alg
-    command = ""
-    if alg == "droptail":
-        alg_name = "pfifo"
-        command = "pfifo limit 200"
-    if alg == "red":
-        command = "red limit 6400k min 1280k max 6400k avpkt 128k probability 0.02 burst 55 ecn harddrop"
-    if alg == "pie":
-        command = "pie limit 200 tupdate 100ms target 50ms"
-
     # Create Mininet network with remote controller and specified switches and links
     net = Mininet(switch=OVSSwitch, link=TCLink)
 
@@ -44,10 +34,9 @@ def create_network():
         receiver.cmd('iperf3 -s &')
 
     time.sleep(1)
-    start = time.time()
 
     if cwnd == False:
-        start_alg(net)
+        start_alg(net, switch1)
     else:
         start_cwnd(net)
 
@@ -55,7 +44,8 @@ def create_network():
     # CLI(net)
     net.stop()
 
-def start_alg(net):
+def start_alg(net, switch1):
+    start = time.time()
     # Start iperf3 clients on the sources
     for i in range(2, 11, 2):
         h = net.get(f'h{i}')
@@ -104,5 +94,16 @@ if __name__ == '__main__':
     if len(sys.argv) >= 3:
         print("Start application with cwnd mode")
         cwnd = True
+
+    alg_name = alg
+    command = ""
+    if alg == "droptail":
+        alg_name = "pfifo"
+        command = "pfifo limit 200"
+    if alg == "red":
+        command = "red limit 6400k min 1280k max 6400k avpkt 128k probability 0.02 burst 55 ecn harddrop"
+    if alg == "pie":
+        command = "pie limit 200 tupdate 100ms target 50ms"
+
     create_network()
 
