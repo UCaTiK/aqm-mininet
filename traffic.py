@@ -56,7 +56,7 @@ def start_alg(net, switch1):
         i = 1
         while time.time() - start < 10:
             f.write(str(time.time() - start) + " ")
-            f.write(str(i) + " " + switch1.cmd('tc -s -d qdisc show dev s1-eth1 | grep -A 5 {alg_name} | grep backlog | tail -n 1 | cut -d " " -f 3,4 | tr -d p'))
+            f.write(str(i) + " " + switch1.cmd(f'tc -s -d qdisc show dev s1-eth1 | grep -A 5 {alg_name} | grep backlog | tail -n 1 | cut -d " " -f 3,4 | tr -d p'))
             f.write(switch1.cmd(f'tc -s qdisc show dev s1-eth1 | grep -A 5 {alg_name} | grep dropped | tail -n 1 | cut -d " " -f 8 | tr -d ,'))
             i += 1
     with open("temp.txt", "r") as r:
