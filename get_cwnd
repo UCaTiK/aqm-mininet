@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# Check if raw_cwnd.txt exists
+if [ ! -f "droptail_raw_cwnd.txt" ]; then
+    echo "File droptail_raw_cwnd.txt does not exist"
+    exit 1
+fi
+
+# Extract process id from the first line of the file
+id=$(sed -n '2 s/.*\[\s*\([0-9]\+\)\s*\].*/\1/p' droptail_raw_cwnd.txt)
+
+# Check if id was found
+if [ -z "$id" ]; then
+    echo "Process ID not found in the first line of droptail_raw_cwnd.txt"
+    exit 1
+fi
+
+grep -E "\[ $id\]" droptail_raw_cwnd.txt | tail -n +2 | head -n -2 | awk '{print substr($3,1,4) " " $(NF-2) " " $(NF-1)}' > droptail_cwnd.txt
+
+# Check if raw_cwnd.txt exists
+if [ ! -f "red_raw_cwnd.txt" ]; then
+    echo "File red_raw_cwnd.txt does not exist"
+    exit 1
+fi
+
+# Extract process id from the first line of the file
+id=$(sed -n '2 s/.*\[\s*\([0-9]\+\)\s*\].*/\1/p' red_raw_cwnd.txt)
+
+# Check if id was found
+if [ -z "$id" ]; then
+    echo "Process ID not found in the first line of red_raw_cwnd.txt"
+    exit 1
+fi
+
+grep -E "\[ $id\]" red_raw_cwnd.txt | tail -n +2 | head -n -2 | awk '{print substr($3,1,4) " " $(NF-2) " " $(NF-1)}' > red_cwnd.txt
+
+# Check if raw_cwnd.txt exists
+if [ ! -f "pie_raw_cwnd.txt" ]; then
+    echo "File pie_raw_cwnd.txt does not exist"
+    exit 1
+fi
+
+# Extract process id from the first line of the file
+id=$(sed -n '2 s/.*\[\s*\([0-9]\+\)\s*\].*/\1/p' pie_raw_cwnd.txt)
+
+# Check if id was found
+if [ -z "$id" ]; then
+    echo "Process ID not found in the first line of pie_raw_cwnd.txt"
+    exit 1
+fi
+
+grep -E "\[ $id\]" pie_raw_cwnd.txt | tail -n +2 | head -n -2 | awk '{print substr($3,1,4) " " $(NF-2) " " $(NF-1)}' > pie_cwnd.txt

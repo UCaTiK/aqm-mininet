@@ -1,0 +1,18 @@
+#! /usr/bin/gnuplot -persist
+set terminal png size 800, 600
+
+set xlabel "Time, seconds"
+set ylabel "cwnd, KBytes"
+set nokey
+
+set title "Droptail: cwnd"
+set output 'images/droptail_cwnd.png'
+plot "droptail_cwnd.txt" u 1:2 title "cwnd" with line
+
+set title "RED: cwnd"
+set output 'images/red_cwnd.png'
+plot "red_cwnd.txt" u 1:2 title "cwnd" with line
+
+set title "PIE: cwnd"
+set output 'images/pie_cwnd.png'
+plot "pie_cwnd.txt" u 1:2 title "cwnd" with line

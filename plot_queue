@@ -1,0 +1,34 @@
+#! /usr/bin/gnuplot -persist
+set terminal png size 800, 600
+
+# Queue size
+
+set xlabel "Time, seconds"
+set ylabel "Packets"
+set nokey
+
+set title "Droptail: Current queue size"
+set output 'images/droptail_queue.png'
+plot "droptail_results.txt" u 1:4 with line title "queue size"
+
+set title "RED: Current queue size"
+set output 'images/red_queue.png'
+plot "red_results.txt" u 1:4 with line title "queue size"
+
+set title "PIE: Current queue size"
+set output 'images/pie_queue.png'
+plot "pie_results.txt" u 1:4 with line title "queue size"
+
+# Dropped packets
+
+set title "Droptail: Number of dropped packets"
+set output 'images/droptail_dropped.png'
+plot "droptail_results.txt" u 1:5 title "Dropped packets" with line
+
+set title "RED: Number of dropped packets"
+set output 'images/red_dropped.png'
+plot "red_results.txt" u 1:5 title "Dropped packets" with line
+
+set title "PIE: Number of dropped packets"
+set output 'images/pie_dropped.png'
+plot "pie_results.txt" u 1:5 title "Dropped packets" with line
